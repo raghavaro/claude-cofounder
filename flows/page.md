@@ -40,6 +40,17 @@ Lay the page out in order before any prose, one line per section:
 4. **The objection**, answered
 5. **The action again**, same button text as the hero
 
+That's content order, not layout. Five sections built to the same width, the
+same alignment and the same rhythm read as a list even when the writing is
+good — asymmetry and uneven whitespace are already called for in
+`references/design-system.md`, and this is the step where they actually have
+to land on specific sections rather than staying a principle. **Before
+building, mark at least two of the five sections to break the stack**: a
+text/visual split instead of centred prose, a number or line pulled out and
+set large, a section that runs to the full width where the others hold to
+`--measure`. Say which two and why, then carry that into Step 5 rather than
+discovering the page is a list of paragraphs after it's built.
+
 Then hold the first screen to what it has to do. A visitor should understand the
 problem being solved in about fifteen seconds without reading a second section:
 
@@ -78,6 +89,17 @@ For a new product this does more work than any argument:
 
 What doesn't: stock photography, invented testimonials, logo strips of companies
 that aren't customers, counters that count nothing.
+
+**If nothing real exists yet** — the common case pre-launch — don't leave the
+first screen's visual slot empty or filled with a "coming soon" placeholder
+box. A blank frame reads as an unfinished page, not an honest one. Build one
+of these instead, all real and makeable today: a labelled diagram of how the
+thing actually works, step by step; a map or location graphic if the trust
+signal is physical (where to find it, when); a simple line illustration of
+the product or process; or the founder's own words, set large, in place of a
+testimonial that doesn't exist yet. Pick whichever is truest to what actually
+exists right now — the point is that the first screen has something to look
+at, not that it pretends to have proof it doesn't.
 
 **Write to brief:** what's being used, and anything that needs making first.
 

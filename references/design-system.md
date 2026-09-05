@@ -36,6 +36,9 @@ Not polish — polish is what the defaults already have. What reads as handmade 
   even when the layout is simple.
 - **Asymmetry somewhere.** Everything centred is the default. Left-aligned
   headlines, an off-centre hero, a section that breaks the grid on purpose.
+  A principle stated here and never assigned to a section stays a principle —
+  `flows/page.md`'s spine step is where it has to become a decision about
+  which two sections actually break the stack.
 - **Uneven whitespace.** Generous, and *not* uniform. Space should mark where
   ideas end, not sit at 96px between every section.
 - **Something real in the first screen.** A product screenshot, a short loop of
