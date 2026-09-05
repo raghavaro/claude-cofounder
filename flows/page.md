@@ -198,6 +198,12 @@ considered page from a demo reel:
 - `prefers-reduced-motion` disables both, with everything visible
 - Content is in the DOM and readable with JavaScript off
 
+Before calling the build done, run `references/design-system.md`'s **"Before
+it ships"** checklist — it's mechanical (count the em dashes, count the
+eyebrows) rather than a matter of taste, which is exactly why it's worth
+running as a separate pass instead of trusting Steps 1–4 to have caught it
+along the way.
+
 **Then publishing.** If the session has real write access to somewhere it can
 go live, show the exact destination and content once, get an explicit yes to
 that specific preview, publish, and **read the live page back** before saying

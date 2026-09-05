@@ -458,6 +458,12 @@ Convert to rules that can be followed:
 - Three things it never does — exclamation marks; "revolutionary"; hedging
 - One before/after: take the headline from step 1 and rewrite it in voice
 
+**One rule isn't a voice choice, it's standing:** no em dash, anywhere on the
+page — not in the headline, a button, a caption, or a quote. It's the most
+common tell that copy was written by a model rather than the person running
+this session, and no voice rule below is worth restoring it. Rewrite with a
+period, a comma, or a colon instead.
+
 **Push back on:** a voice borrowed from a company selling to a different person.
 
 *They say:* "Stripe and Linear."

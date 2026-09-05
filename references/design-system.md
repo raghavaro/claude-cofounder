@@ -21,6 +21,15 @@ should be a deliberate choice if it appears at all:
 - Glassmorphism, and gradient text on the headline
 - Emoji standing in for icons
 - A "Trusted by" strip with logos of companies that aren't customers
+- An em dash in a headline, an eyebrow, a button, or a caption — the single
+  most common tell in AI-written copy, and one no visual polish covers for.
+  Rewrite with a period, a comma, or a colon instead. This applies below the
+  fold too, not just the hero.
+- An eyebrow label — the small uppercase, wide-tracking word above a section
+  headline (`OUR PROCESS`, `WHY IT WORKS`) — sitting above *every* section.
+  One eyebrow reads as a section marker; six in a row reads as a template
+  ticking its own boxes. Cap it at roughly one eyebrow for every three
+  sections, hero included, and drop the rest — the headline alone is enough.
 
 None of these are bad in isolation. Together they are a uniform. If the page
 has four of them it reads as generated no matter how good the copy is.
@@ -43,12 +52,22 @@ Not polish — polish is what the defaults already have. What reads as handmade 
   ideas end, not sit at 96px between every section.
 - **Something real in the first screen.** A product screenshot, a short loop of
   it working, a photograph of the person, *if one of those exists* — and for
-  most sessions here, pre-launch, none of them do yet. In that default case
-  "real" means a diagram, a map, an illustration, or the founder's own words,
-  built specifically for this business rather than left as an empty
-  placeholder. Real-but-modest beats generic-but-polished either way: a rough
-  product screenshot beats an abstract render, and a plain diagram of an
-  actual process beats a stock illustration that could belong to anyone.
+  most sessions here, pre-launch, none of them do yet. Priority order for that
+  default case:
+  1. **Generate one, if the session can.** An image-generation tool building a
+     bespoke asset for this specific business beats anything hand-rolled —
+     use it before reaching for markup. This is a generated asset, not a
+     stock photo: it should depict this business's actual thing, not a
+     generic stand-in for the category.
+  2. **Otherwise, build a diagram, map, or illustration** specific to this
+     business — how it works, where to find it, a labelled sketch of the
+     product — rather than an abstract shape.
+  3. **Otherwise, the founder's own words, set large.**
+  Never a "coming soon" placeholder box and never a stock photo standing in
+  for a product that doesn't exist. Real-but-modest beats generic-but-polished
+  throughout: a rough product screenshot beats an abstract render, and a plain
+  diagram of an actual process beats a stock illustration that could belong to
+  anyone.
 - **One idiosyncratic detail.** A hand-drawn arrow, a footnote, an aside in the
   margin, a slightly odd cursor. One. It signals a person was here.
 - **Restraint in colour.** A ground, an ink, and exactly one accent used
@@ -98,9 +117,14 @@ by the model, and it will pick the median.
 From how strong landing pages are actually built — and what YC-shaped early
 pages consistently get right:
 
-- **An outcome headline.** What the person gets, not what the product is.
-- **A subhead that says who it's for**, or how it works. One of the two.
-- **One CTA, visually dominant.** Not three buttons of equal weight.
+- **An outcome headline**, two lines maximum. What the person gets, not what
+  the product is.
+- **A subhead that says who it's for**, or how it works — one of the two,
+  twenty words maximum, four lines maximum. If the value proposition doesn't
+  fit, the value proposition is unclear, not the limit too tight.
+- **One CTA, visually dominant**, its label short enough to sit on one line at
+  desktop width. Not three buttons of equal weight, and not a second button
+  making the same offer in different words.
 - **Something to look at** above the fold — a screenshot or interactive demo
   where the product exists to demo, otherwise a diagram, a map, or an
   illustration built for this business specifically. Either way, a visitor
@@ -108,9 +132,39 @@ pages consistently get right:
   without reading a second section.
 - **Trust near the action**, not in a strip at the bottom — and only real
   signals.
+- **Four text elements in the hero, maximum**: an eyebrow, the headline, the
+  subhead, the CTA(s). A tagline under the button, a trust micro-strip, or a
+  feature list stuffed into the hero on top of those four is the thing that
+  makes it float and stops it fitting the viewport — move it to its own
+  section below instead.
 
-Load in under two seconds and lazy-load everything below the fold. A slow page
-is a design failure before it is a performance one.
+The whole hero has to fit the initial viewport without scrolling — if it
+doesn't, cut copy or reduce the type scale before adding top padding to make
+it look intentional. Load in under two seconds and lazy-load everything below
+the fold. A slow page is a design failure before it is a performance one.
+
+## Before it ships — the mechanical check
+
+A handful of these are checkable by counting, not judging, which is exactly
+why they're worth running as a final pass rather than trusting the build to
+have gotten them right along the way:
+
+- **Em dashes: zero**, anywhere a visitor can read one — headline, eyebrow,
+  button, caption, quote attribution. Grep for `—` if unsure.
+- **Eyebrows: at most one per three sections**, hero included. Count the
+  small-caps labels; if there are more sections using one than that ratio
+  allows, cut the extras rather than add a section to dilute the count.
+- **No two CTAs make the same offer in different words** — "Get in touch",
+  "Let's talk", "Reach out" on the same page is one offer wearing three
+  labels. Pick one and repeat it exactly, the way the landing page module
+  already repeats the hero's button text at the bottom.
+- **Every button and form field passes WCAG AA contrast** against its
+  background — no white text on a light accent, no placeholder text lighter
+  than the muted ink token.
+- **No section repeats the exact layout family** of the section before it —
+  the two sections marked to break the stack in Step 1 of the page module
+  should be visibly doing something different from each other, not just
+  different from the plain sections.
 
 ## Motion rules
 
@@ -136,3 +190,20 @@ everywhere:
 - **Nothing important waits on JavaScript.** Content is in the DOM and visible
   by default; motion is added to it. A reveal implemented as "hidden until JS
   runs" is a page that renders blank when the script fails.
+
+## A note on scope
+
+Every "zero" and "at most" rule in this file — the em-dash ban, the eyebrow
+ratio, the duplicate-CTA check — applies to what the built page shows a
+visitor. It says nothing about how this skill's own modules or references
+are written; that prose keeps its own voice. Don't let a mechanical check
+meant for shipped copy start editing the skill.
+
+Several of the hard, checkable rules above (the em-dash ban, the eyebrow
+ratio, the hero element cap, the duplicate-CTA check, the image-generation
+priority order) are adapted from the open-source
+[Taste Skill](https://tasteskill.dev) project (MIT, Leonxlnx/taste-skill),
+narrowed to the single-route, no-dependency scope this starter actually
+builds — its own version covers a much larger surface (dashboards, real
+design-system integrations, GSAP scroll choreography) that's out of scope
+for what `flows/page.md` ships.

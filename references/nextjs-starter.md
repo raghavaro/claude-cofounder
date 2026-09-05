@@ -226,6 +226,8 @@ One route. If a second page appears, it's a privacy policy.
 - Tab through it once — the CTA is reachable and focus is visible
 - Turn off JavaScript: the page still reads
 - The screenshot is of the actual product
+- `references/design-system.md`'s **"Before it ships"** checklist has been
+  run — zero em dashes, eyebrow ratio, no duplicate-CTA-intent, contrast
 
 ## Deploy
 
