@@ -369,8 +369,13 @@ Not polish — polish is what the defaults already have. What reads as handmade 
 - **Uneven whitespace.** Generous, and *not* uniform. Space should mark where
   ideas end, not sit at 96px between every section.
 - **Something real in the first screen.** A product screenshot, a short loop of
-  it working, a photograph of the person. Real beats illustrated, and a
-  screenshot of a rough product beats a beautiful abstract render.
+  it working, a photograph of the person, *if one of those exists* — and for
+  most sessions here, pre-launch, none of them do yet. In that default case
+  "real" means a diagram, a map, an illustration, or the founder's own words,
+  built specifically for this business rather than left as an empty
+  placeholder. Real-but-modest beats generic-but-polished either way: a rough
+  product screenshot beats an abstract render, and a plain diagram of an
+  actual process beats a stock illustration that could belong to anyone.
 - **One idiosyncratic detail.** A hand-drawn arrow, a footnote, an aside in the
   margin, a slightly odd cursor. One. It signals a person was here.
 - **Restraint in colour.** A ground, an ink, and exactly one accent used
@@ -423,9 +428,11 @@ pages consistently get right:
 - **An outcome headline.** What the person gets, not what the product is.
 - **A subhead that says who it's for**, or how it works. One of the two.
 - **One CTA, visually dominant.** Not three buttons of equal weight.
-- **Something showing the product** above the fold — a screenshot, a short
-  demo, an interactive preview. A visitor should understand the problem being
-  solved in about fifteen seconds without reading a second section.
+- **Something to look at** above the fold — a screenshot or interactive demo
+  where the product exists to demo, otherwise a diagram, a map, or an
+  illustration built for this business specifically. Either way, a visitor
+  should understand the problem being solved in about fifteen seconds
+  without reading a second section.
 - **Trust near the action**, not in a strip at the bottom — and only real
   signals.
 
@@ -749,8 +756,13 @@ problem being solved in about fifteen seconds without reading a second section:
 - **An outcome headline** — what they get, not what it is
 - **A subhead saying who it's for**, or how it works. One of the two.
 - **One CTA, visually dominant.** Not three buttons of equal weight.
-- **Something showing the product** — a screenshot, a short loop, a live
-  preview. Real and rough beats polished and abstract.
+- **Something to look at.** A screenshot or a live preview only if the
+  product exists to screenshot — most sessions here are pre-launch, so
+  default to planning this as a diagram, a map, an illustration, or the
+  founder's own words set large, and treat an actual screenshot as the
+  upgrade case rather than the assumption. Step 2 makes this decision for
+  real; this is where it's flagged so the spine doesn't get built around an
+  asset that doesn't exist.
 - **Trust near the action**, and only real signals.
 
 **Push back on:** a hero carrying an explanation.
@@ -771,7 +783,26 @@ the person get, in the words they'd use?"
 
 **Ask:** What on this page makes it look like a real thing built by real people?
 
-For a new product this does more work than any argument:
+**Ask first whether the product exists to show yet.** Most sessions here are
+pre-launch — no working product, no customers, sometimes not even a name
+people recognize. That isn't the exception this step handles after the real
+plan; it's the default to plan for, and it gets its own build rather than an
+empty slot:
+
+- A labelled diagram of how the thing actually works, step by step
+- A map or location graphic, if the trust signal is physical — where to find
+  it, and when
+- A simple line illustration of the product or process
+- The founder's own words, set large, in place of a testimonial that doesn't
+  exist yet
+
+Pick whichever is truest to what actually exists right now. A blank frame or
+a "coming soon" box reads as an unfinished page, not an honest one — the goal
+is that the first screen has something to look at, not that it pretends to
+have proof it doesn't.
+
+**If something real already exists**, use it instead — it beats all four of
+the above:
 
 - **A name and a face.** The founder, said plainly. Anonymity reads as risk.
 - **Something that shows it working** — a screenshot, a clip, real output.
@@ -779,19 +810,8 @@ For a new product this does more work than any argument:
   "trusted by teams everywhere", and it's true.
 - **A way out.** No card required, cancel any time, export your data.
 
-What doesn't: stock photography, invented testimonials, logo strips of companies
-that aren't customers, counters that count nothing.
-
-**If nothing real exists yet** — the common case pre-launch — don't leave the
-first screen's visual slot empty or filled with a "coming soon" placeholder
-box. A blank frame reads as an unfinished page, not an honest one. Build one
-of these instead, all real and makeable today: a labelled diagram of how the
-thing actually works, step by step; a map or location graphic if the trust
-signal is physical (where to find it, when); a simple line illustration of
-the product or process; or the founder's own words, set large, in place of a
-testimonial that doesn't exist yet. Pick whichever is truest to what actually
-exists right now — the point is that the first screen has something to look
-at, not that it pretends to have proof it doesn't.
+What doesn't, either way: stock photography, invented testimonials, logo
+strips of companies that aren't customers, counters that count nothing.
 
 **Write to brief:** what's being used, and anything that needs making first.
 

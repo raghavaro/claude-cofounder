@@ -42,8 +42,13 @@ Not polish — polish is what the defaults already have. What reads as handmade 
 - **Uneven whitespace.** Generous, and *not* uniform. Space should mark where
   ideas end, not sit at 96px between every section.
 - **Something real in the first screen.** A product screenshot, a short loop of
-  it working, a photograph of the person. Real beats illustrated, and a
-  screenshot of a rough product beats a beautiful abstract render.
+  it working, a photograph of the person, *if one of those exists* — and for
+  most sessions here, pre-launch, none of them do yet. In that default case
+  "real" means a diagram, a map, an illustration, or the founder's own words,
+  built specifically for this business rather than left as an empty
+  placeholder. Real-but-modest beats generic-but-polished either way: a rough
+  product screenshot beats an abstract render, and a plain diagram of an
+  actual process beats a stock illustration that could belong to anyone.
 - **One idiosyncratic detail.** A hand-drawn arrow, a footnote, an aside in the
   margin, a slightly odd cursor. One. It signals a person was here.
 - **Restraint in colour.** A ground, an ink, and exactly one accent used
@@ -96,9 +101,11 @@ pages consistently get right:
 - **An outcome headline.** What the person gets, not what the product is.
 - **A subhead that says who it's for**, or how it works. One of the two.
 - **One CTA, visually dominant.** Not three buttons of equal weight.
-- **Something showing the product** above the fold — a screenshot, a short
-  demo, an interactive preview. A visitor should understand the problem being
-  solved in about fifteen seconds without reading a second section.
+- **Something to look at** above the fold — a screenshot or interactive demo
+  where the product exists to demo, otherwise a diagram, a map, or an
+  illustration built for this business specifically. Either way, a visitor
+  should understand the problem being solved in about fifteen seconds
+  without reading a second section.
 - **Trust near the action**, not in a strip at the bottom — and only real
   signals.
 
