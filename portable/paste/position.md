@@ -395,7 +395,22 @@ Say plainly that "Who it's for" is a working answer from an idea session rather
 than customer evidence. This step is allowed to break it, and it can only do
 that if everyone knows it's provisional.
 
-**Write to brief:** nothing yet — this is the read-in.
+**If `company-brief.md` doesn't exist, or has no Problem and Chosen approach
+filled in — base hasn't run.** This module's own trigger phrases ("who is
+this for," "work on my positioning") are exactly what someone asks cold, so
+don't proceed as if the read-in happened. Say so plainly, and ask once: a
+one-sentence problem and a one-sentence description of what they're
+building, right now — not the base module, just enough for step 2's sentence
+template to have a Problem and a Chosen approach to sharpen. Name it as a
+shortcut: *"That skips the premise gate — the part of base that can't be
+repaired later, where a vague or wrong problem gets caught before it's built
+on. Happy to run base properly first if there's time, or take the short
+version and flag it as untested."*
+
+**Write to brief:** if base already ran, nothing yet — this is the read-in.
+If it hadn't, write the compressed Problem and Chosen approach now, plus a
+one-line note that the premise gate was skipped, so whoever reads this brief
+later knows that part is unexamined, not just abbreviated.
 
 ---
 
