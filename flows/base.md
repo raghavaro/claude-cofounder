@@ -23,6 +23,11 @@ premise gate is the only part of this module that can't be repaired later.
 
 Run one step per turn. See the pacing section in `SKILL.md`.
 
+**Suggested reading:** *Zero to One*, Peter Thiel. Step 2's premise gate
+borrows its spirit — the contrarian question ("what do you believe that
+almost no one else does"), and building toward something defensible rather
+than a faster horse in a crowded field of alternatives.
+
 Open by telling them the shape: most of this is about the problem, almost none
 of it about solutions, and that's deliberate — most of what makes a build wrong
 is decided before anyone opens an editor.

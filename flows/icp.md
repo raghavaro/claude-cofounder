@@ -22,23 +22,30 @@ The test to hold throughout: *could someone who has never met this business use
 this profile to sort a hundred companies into yes, no and maybe?* If not, keep
 going.
 
-**Say what this is before you start.** This module runs on SPIN — the
-discovery-call sequence Neil Rackham documented in *SPIN Selling*: Situation,
-Problem, Implication, Need-payoff. A real SPIN call asks these of a live
-prospect; here there's no prospect yet, so it runs as a self-interview instead,
-in the same order:
+**Suggested reading:** *Competing Against Luck*, Clayton Christensen — or
+Bob Moesta's *Demand-Side Sales 101* for the more tactical version.
 
-- **Situation** — Step 1, the account: the facts a stranger could verify from
-  outside.
-- **Problem** — Step 2, the person: who feels it, and who has to say yes.
-- **Implication** — Step 3, the trigger, plus the question it was missing:
-  what happens to the account if the trigger passes and nothing changes. A
-  trigger without a stated cost is a date on a calendar, not a reason to act.
-- **Need-payoff** — carried forward into the copy module's reasons to
-  believe, not asked again here.
+**Say what this is before you start.** This module runs on Jobs to Be
+Done: a "job" is the progress someone is trying to make in a given
+circumstance, and people don't buy products, they hire them to make that
+progress. Three of the five steps map onto it directly:
 
-Say this plainly at the open so the person knows why the steps come in this
-order, rather than leaving them to guess at a structure they can't see.
+- **The circumstance** — Step 1, the account: the situational facts a
+  stranger could verify from outside, which is what a "job" is always
+  defined relative to.
+- **The struggling moment** — Step 3, the trigger, plus the question it was
+  missing: what happens to the account if that moment passes and nothing
+  changes. JTBD calls the forces at that moment push, pull, anxiety, and
+  habit; a trigger with no stated cost is missing the push.
+- **The switch interview** — Step 5, testing the profile against people who
+  exist. JTBD's own method is built on interviewing people who recently
+  switched to reconstruct exactly this timeline.
+
+**Step 2 (who signs, who can block) and Step 4 (disqualifiers) aren't JTBD
+vocabulary** — they're this module's own addition, because a B2B buying
+committee and an explicit refusal list are real and JTBD doesn't cover
+either. Say that plainly too, rather than forcing every step into one
+book's terms: three steps borrow the theory, two are the module's own.
 
 Run one step per turn. See the pacing section in `SKILL.md`.
 

@@ -22,9 +22,11 @@ minutes and the `marketing-workshop` skill available, the full flow is a better
 use of the time and this module should say so rather than quietly substituting
 for it.
 
-**Say this too, plainly, before Step 1.** This module runs on Al Ries and Jack
-Trout's positioning theory — from *Positioning: The Battle for Your Mind*.
-The core of it, in six lines:
+**Suggested reading:** *Positioning: The Battle for Your Mind*, Al Ries and
+Jack Trout.
+
+**Say this too, plainly, before Step 1.** This module runs on their
+positioning theory. The core of it, in six lines:
 
 - Positioning is fought in the prospect's mind, not in the marketplace — what
   matters is the slot a brand occupies in someone's head, not what the
