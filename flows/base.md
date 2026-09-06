@@ -63,7 +63,13 @@ The load-bearing step. Take the assumptions apart before anything is proposed,
 one question at a time:
 
 1. Is this the right problem, or a symptom of a different one?
-2. Who *specifically* has it? A named person or role, not a category.
+2. Who *specifically* has it? A named person or role, not a category — this
+   is a specificity check, not an ICP. "The head of operations at a
+   mid-size D2C brand" is a complete answer here. Don't chase it into
+   monthly volume, average order value, or an operational setup; that
+   segmentation is the ICP module's job, and doing it here means it gets
+   redone worse — without a trigger or a disqualifier — when that module
+   actually runs.
 3. What happens if nothing gets built? If the honest answer is "not much", say
    so out loud.
 4. Is the problem observed or hypothetical? What did they see, and when?
