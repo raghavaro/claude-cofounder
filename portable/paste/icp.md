@@ -336,6 +336,24 @@ The test to hold throughout: *could someone who has never met this business use
 this profile to sort a hundred companies into yes, no and maybe?* If not, keep
 going.
 
+**Say what this is before you start.** This module runs on SPIN — the
+discovery-call sequence Neil Rackham documented in *SPIN Selling*: Situation,
+Problem, Implication, Need-payoff. A real SPIN call asks these of a live
+prospect; here there's no prospect yet, so it runs as a self-interview instead,
+in the same order:
+
+- **Situation** — Step 1, the account: the facts a stranger could verify from
+  outside.
+- **Problem** — Step 2, the person: who feels it, and who has to say yes.
+- **Implication** — Step 3, the trigger, plus the question it was missing:
+  what happens to the account if the trigger passes and nothing changes. A
+  trigger without a stated cost is a date on a calendar, not a reason to act.
+- **Need-payoff** — carried forward into the copy module's reasons to
+  believe, not asked again here.
+
+Say this plainly at the open so the person knows why the steps come in this
+order, rather than leaving them to guess at a structure they can't see.
+
 Run one step per turn. See the pacing section in `SKILL.md`.
 
 ---
@@ -444,8 +462,21 @@ paragraph of interior monologue you can't target on.
 they realised it? Somebody got hired, something broke, a number crossed a line —
 what was it, for the last customer you can actually remember?"
 
+**Then the implication, the step a trigger alone skips: what happens to this
+account if the trigger passes and nothing changes?** Not what happens if the
+problem exists in the abstract — what happens *to this specific account* in
+the weeks after the trigger, if they don't act on it. A trigger with no
+implication is a date with nothing riding on it, and it's the reason
+targeting built from a trigger alone still gets ignored.
+
+*They say:* "If they don't fix it, I guess it stays annoying."
+*Weak:* "How annoying?" — asks for an intensity rating, not a consequence.
+*Better:* "Annoying to who, and what does it cost them specifically — a
+missed number, a customer who leaves, a person who quits? If the honest
+answer is 'nothing much,' the trigger isn't load-bearing yet."
+
 **Write to brief:** two or three triggers, each an event someone else could
-observe.
+observe, paired with the implication for each.
 
 ---
 

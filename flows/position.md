@@ -22,6 +22,25 @@ minutes and the `marketing-workshop` skill available, the full flow is a better
 use of the time and this module should say so rather than quietly substituting
 for it.
 
+**Say this too, plainly, before Step 1.** This module runs on Al Ries and Jack
+Trout's positioning theory — from *Positioning: The Battle for Your Mind*.
+The core of it, in six lines:
+
+- Positioning is fought in the prospect's mind, not in the marketplace — what
+  matters is the slot a brand occupies in someone's head, not what the
+  product actually does.
+- The mind files brands onto a ladder, one ladder per category, with room
+  for only a handful of rungs it can name unprompted.
+- Being first to occupy a rung beats being objectively better later, because
+  a mind that has already ranked a category resists being reordered.
+- If the obvious ladder's top rung is taken, the move isn't to argue for a
+  lower rung — it's to narrow the category until there's a ladder you're
+  first on.
+- The prize is owning one word in the prospect's mind, held by nobody else
+  in that category.
+- Everything below — the category, the leader, the word, the hole — is that
+  ladder-and-rung exercise, run as an express pass rather than the full one.
+
 Run one step per turn. See the pacing section in `SKILL.md`.
 
 ---
