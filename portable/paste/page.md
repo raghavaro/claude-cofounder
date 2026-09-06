@@ -357,9 +357,35 @@ should be a deliberate choice if it appears at all:
   One eyebrow reads as a section marker; six in a row reads as a template
   ticking its own boxes. Cap it at roughly one eyebrow for every three
   sections, hero included, and drop the rest — the headline alone is enough.
+- **Space Grotesk paired with a teal or petrol-green accent.** This looks
+  like a deliberate, distinctive choice the first time it's made — which is
+  exactly why it's become the second-order default: the safe alternative
+  everyone reaches for once Inter and indigo are off the table. Treat it as
+  ruled out the same as Inter-everywhere, not as evidence of a decision.
 
 None of these are bad in isolation. Together they are a uniform. If the page
 has four of them it reads as generated no matter how good the copy is.
+
+## Check what else exists in this workspace before choosing tokens
+
+If this session has already built another page under this skill — earlier in
+the same conversation, or visible as a sibling project on disk — its
+choices are now claimed, not just a reference point to differ from once.
+Read its `DESIGN.md` and rule out its exact type pairing, its accent hue
+family, and its ground temperature (warm vs. cool, light vs. dark), not only
+its literal values. "Different from the one page I can see" is how two
+pages built in parallel, each told only to differ from a shared reference,
+both end up choosing Space Grotesk and teal independently — neither was
+wrong to avoid the reference, and both still collided with each other.
+
+Where several pages are being planned or built together (a portfolio of
+ideas, a parallel batch), treat distinctiveness as a set to divide up front,
+not a per-page decision made in isolation: assign a different type-pairing
+character (a warm quirky serif, a heavy industrial grotesk, a certificate
+serif, a plain workhorse pair) and a different accent hue family (orange,
+navy, lime, rust, magenta — not four shades of teal) to each one before any
+of them starts choosing values, the same way a designer handed five
+sub-brands would.
 
 ## What makes a page feel made by a person
 
